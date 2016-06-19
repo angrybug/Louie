@@ -19,6 +19,7 @@ project.lock.json
 appsettings.*.json
 
 !**/*e2e-spec.js
+!gulpfile.js
 !karma*.js
 !protractor*.js
 !systemjs.config.js
